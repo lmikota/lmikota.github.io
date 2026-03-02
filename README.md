@@ -1,4 +1,8 @@
-´´´json
+# 👋 About Me
+
+## 🧾 Profile (JSON)
+
+```json
 {
    "name": "Leander",
    "profession": [
@@ -9,7 +13,7 @@
    "languages": [
       "German",
       "English",
-      "Россия"
+      "Russian"
    ],
    "coding_languages": [
       "C",
@@ -24,4 +28,10 @@
       "Gaming 🎮"
    ]
 }
-´´´
+```
+
+---
+
+## 🔗 Navigation
+
+[Test Page](test.html)
