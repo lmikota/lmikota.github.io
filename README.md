@@ -1,3 +1,4 @@
+´´´json
 {
    "name": "Leander",
    "profession": [
@@ -23,3 +24,4 @@
       "Gaming 🎮"
    ]
 }
+´´´
