@@ -40,7 +40,3 @@
 ## 🔗 Navigation
 
 [Test Page](test.md)
-
----
-
-sd
