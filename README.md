@@ -27,6 +27,11 @@
       "Guitar ⚡🎸",
       "Gaming 🎮"
    ]
+   "projects": [
+      "Brot",
+      "RecipePlanner",
+      "HandymanFinder"
+   ]
 }
 ```
 
